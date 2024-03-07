@@ -2,17 +2,17 @@
 Optimizing Multi-Agent Food Delivery Using Heuristic Search
 
 
-1. The Problem
+**1. The Problem**
 
 In the dynamic landscape of food delivery services, efficiently managing multiple delivery agents to fulfill orders from various restaurants is a significant challenge. This project aims to optimize delivery routes in a multi-agent context using heuristic search methods. The primary goal is to minimize overall delivery time through coordinated routing of multiple delivery personnel. We will focus on calculating optimal paths for each agent, considering the distance between delivery locations as the heuristic value. This approach aims to enhance the collective efficiency of the entire delivery fleet, addressing the complexities of real-world multi-agent delivery scenarios.
 
 
-2. Platform
+**2. Platform**
 
 We are going to build a custom simulation platform using python to simulate the data. Also, we are searching for data that meets our case on several machine learning websites. Furthermore, we are also looking into understanding the parameters of the data so we can consider to mock it and generate large samples. We would like to try PathBench to see if this tool could help our work. 
 
 
-3. Objectives
+**3. Objectives**
 
  - Analysis of the Multi-Agent Pathfinding (MAPF) Problem: Exploring the intricacies of MAPF as detailed in Sharon et al.​​[1].
  - Understanding Conflict-Based Search (CBS): Delving into CBS’s two-level structure – high-level Conflict Tree (CT) exploration and low-level individual agent searches that adhere to CT constraints​[1]
@@ -24,6 +24,7 @@ The project will employ an iterative approach, beginning with a study of existin
 The estimated schedule to complete the implementation of multi-agent pathfinding is the first week (March 22nd). The following week will consist of additional work on comparing different algorithms and compiling the result. Given these objects are achieved by planned dates we will focus on the time based multi-agent optimization and expect it to be concluded by 5th April. The final 2 days will be dedicated to gathering everything in one place and preparing for presentation.
 
  
-4. References
+**4. References**
+
 [1] G. Sharon, R. Stern, A. Felner, and N. R. Sturtevant, “Conflict-based search for optimal multi-agent pathfinding,” Artificial intelligence, vol. 219, pp. 40–66, 2015.
 [2] A. Andreychuk, K. Yakovlev, P. Surynek, D. Atzmon, and R. Stern, “Multi-agent pathfinding with continuous time,” Artificial intelligence, vol. 305, p. 103662, 2022.
