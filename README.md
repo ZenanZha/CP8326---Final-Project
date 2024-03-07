@@ -27,4 +27,5 @@ The estimated schedule to complete the implementation of multi-agent pathfinding
 **4. References**
 
 [1] G. Sharon, R. Stern, A. Felner, and N. R. Sturtevant, “Conflict-based search for optimal multi-agent pathfinding,” Artificial intelligence, vol. 219, pp. 40–66, 2015.
+
 [2] A. Andreychuk, K. Yakovlev, P. Surynek, D. Atzmon, and R. Stern, “Multi-agent pathfinding with continuous time,” Artificial intelligence, vol. 305, p. 103662, 2022.
